@@ -12,4 +12,4 @@ We created **Fanez Devs** to collaborate, learn, and share projects with the com
 
 📫 Connect with us:
 - Fahd: [LinkedIn](https://www.linkedin.com/in/fahd-elattar/)  
-- Nezha: [LinkedIn](https://www.linkedin.com/in/nezha-bouguerza-842080277/)
+- Nezha: [LinkedIn](https://www.linkedin.com/in/nezha-bouguerza/)
